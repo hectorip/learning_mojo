@@ -2,3 +2,6 @@
 
 Me trying to learn Mojo.
 
+## Basic
+
+Aprendiendo 
