@@ -1,2 +1,4 @@
-# learning_mojo
-Me trying to learn Mojo
+# Learning Mojo
+
+Me trying to learn Mojo.
+
