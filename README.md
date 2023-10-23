@@ -2,6 +2,6 @@
 
 Me trying to learn Mojo.
 
-## Basic
+This repo contains my first code on mojo, trying to understand the in and outs of it.
 
-Aprendiendo 
+My main objective is to understand the Modular platform and develop applications leveraging artificial intelligence as a distinctive approach to solve user problems.
