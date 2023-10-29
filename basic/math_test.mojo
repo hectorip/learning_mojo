@@ -5,7 +5,8 @@
 from sys import argv
 
 fn main():
-    print("Hello, world!")
+    """I added this docstring.
+    """
     let args = argv()
     print(args[1])
     let a = 8;
