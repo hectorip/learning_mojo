@@ -1,9 +1,13 @@
 from sys import argv
 
-# Mojo needs an entrypoint named main
+def my_function():
+    print("Hello from a function")
+
 fn main():
     let args = argv()
-    # No sirve
-    # print(([args[1], "!"]).join(" "))
     print(args[1])
-
+    try:
+        my_function()
+    except:
+        print("Error")
+# You can also use def
