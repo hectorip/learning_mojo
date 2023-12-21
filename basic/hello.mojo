@@ -7,7 +7,7 @@ fn main():
     let args = argv()
     print(args[1])
     try:
-        my_function()
+        _ = my_function()
     except:
         print("Error")
 # You can also use def
