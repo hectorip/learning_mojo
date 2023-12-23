@@ -16,3 +16,15 @@ Some of the thing I want to create:
 2. Running a classification model on the server
 
 ## Running the examples
+
+Run the following command to run the examples:
+
+```bash
+mojo run example.mojo
+```
+
+Replace `example` with the name of the file you want to run, like tihs:
+
+```bash
+mojo run basic/hello.mojo
+```

@@ -1,7 +1,10 @@
 from sys import argv
 
+# You can use def like in Python
 def my_function():
     print("Hello from a function")
+
+# Or you can use fn to define a Mojo-optimized function
 
 fn main():
     let args = argv()
@@ -10,4 +13,3 @@ fn main():
         _ = my_function()
     except:
         print("Error")
-# You can also use def
