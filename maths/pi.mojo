@@ -18,4 +18,3 @@ fn main() raises:
         sign *= -1
     pi *= 4
     print("Approximation of = ", pi)
-
